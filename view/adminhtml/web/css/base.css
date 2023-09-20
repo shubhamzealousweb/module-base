@@ -1,0 +1,19 @@
+.admin__menu #menu-zealousweb-base-menu > a:before{
+    content: "";
+    background: url('../images/loading.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 36px;
+}
+
+.zealousweb_extensions .title:before{
+    content: "";
+    background: url('../images/loading.gif');
+    background-position: center;
+    background-size: 36px;
+    width: 36px;
+    height: 36px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}

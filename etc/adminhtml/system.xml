@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Config/etc/system_file.xsd">
+    <system>
+        <tab id="Zealousweb_extensions" translate="label" sortOrder="110" class="zealousweb_extensions">
+            <label>Zealousweb Extensions</label>
+        </tab>
+    </system>
+</config>

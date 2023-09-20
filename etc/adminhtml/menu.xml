@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/menu.xsd">
+    <menu>
+        <add id="Zealousweb_Base::menu" title="Zealousweb" module="Zealousweb_Base" sortOrder="50" resource="Zealousweb_Base::menu"/>
+    </menu>
+</config>
